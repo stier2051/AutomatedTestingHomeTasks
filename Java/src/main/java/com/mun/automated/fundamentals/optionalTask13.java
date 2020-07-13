@@ -8,7 +8,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class OptionalTask3 {
+public class optionalTask13 {
     public static void main(String[] args) throws IOException {
         int[] array = new int[10];
         int sumLenghtArray = 0;
